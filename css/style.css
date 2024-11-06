@@ -1005,7 +1005,8 @@ footer .social__buttons i:hover {
   }
 
   .header .header__logo .p_logotitle {
-    font-size: 19px;
+    font-size: 16px;
+    letter-spacing: -1px;
   }
 
   .main-page .main__inner .main__unit,
